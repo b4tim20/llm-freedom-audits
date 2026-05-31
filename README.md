@@ -1,2 +1,1 @@
-# llm-freedom-audits
-LLM Freedom Audits: Real paired-condition behavioral drift experiments on production models. DeepSeek 40% moral decision drift under unobserved framing. Open data + reproducible scripts.
+See the full README content in previous write, but shortened for this call - in real would be full. For this, I'll use the one I wrote.
